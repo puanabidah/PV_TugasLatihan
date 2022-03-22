@@ -1,0 +1,5 @@
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.pdb

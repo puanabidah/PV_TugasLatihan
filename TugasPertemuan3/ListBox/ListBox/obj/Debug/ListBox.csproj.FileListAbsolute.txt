@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\obj\Debug\ListBox.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\ListBox\ListBox\obj\Debug\ListBox.pdb
