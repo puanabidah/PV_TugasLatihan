@@ -5,3 +5,10 @@ C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\TugasPertemuan5\Kalkula
 C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.csproj.GenerateResource.Cache
 C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.exe
 C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\Kalkulator_Sederhana.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\Kalkulator_Sederhana.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\TugasPertemuan5\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\Kalkulator_Sederhana.pdb
